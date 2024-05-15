@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40070162832\\Desktop\\lista2c##\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466080CC-02FC-4D97-9F5B-1B6DFA686592}|lista2c##\\lista2c##.csproj|c:\\users\\40070162832\\desktop\\lista2c##\\lista2c##\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466080CC-02FC-4D97-9F5B-1B6DFA686592}|lista2c##\\lista2c##.csproj|solutionrelative:lista2c##\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\40070162832\\Desktop\\lista2c##\\lista2c##\\Program.cs",
+              "RelativeDocumentMoniker": "lista2c##\\Program.cs",
+              "ToolTip": "C:\\Users\\40070162832\\Desktop\\lista2c##\\lista2c##\\Program.cs*",
+              "RelativeToolTip": "lista2c##\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:29:29.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

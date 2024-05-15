@@ -1,0 +1,14 @@
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\bin\Debug\net8.0\lista2c##.exe
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\bin\Debug\net8.0\lista2c##.deps.json
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\bin\Debug\net8.0\lista2c##.runtimeconfig.json
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\bin\Debug\net8.0\lista2c##.dll
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\bin\Debug\net8.0\lista2c##.pdb
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.AssemblyInfoInputs.cache
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.AssemblyInfo.cs
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.csproj.CoreCompileInputs.cache
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.dll
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\refint\lista2c##.dll
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.pdb
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\lista2c##.genruntimeconfig.cache
+C:\Users\40070162832\Desktop\lista2c##\lista2c##\obj\Debug\net8.0\ref\lista2c##.dll
